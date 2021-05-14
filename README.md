@@ -11,6 +11,8 @@
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=chandan9pandey&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
  &nbsp;
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/chandan9pandey/chandan9pandey?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+ &nbsp;
+[![Generic badge](https://img.shields.io/badge/BUILT-SUCCESS-<COLOR>.svg)](https://shields.io/)
 </p>
 
 ---
@@ -28,15 +30,17 @@ I'm currently into Web Development 🕸️ and working on my Data Structures and
 
 - 🔭 I’m currently working on Web Design Projects.
 
-- 🌱 I’m currently learning Machine Learning & MERN Stack framework.
+- 🌱 I'm on track for learning more about AI, Machine Learning, and Cloud Architecture.
 
 - 💬 Ask me anything 🤓
-
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chandan0113/)
 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 - ⚡ Fun fact: Diamonds rain on Saturn and Jupiter.
+<br/>
+<br/>
+<br/>
+<hr/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -54,14 +58,17 @@ I'm currently into Web Development 🕸️ and working on my Data Structures and
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 
+<hr/>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <a href="https://github.com/chandan9pandey">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chandan9pandey&show_icons=true&include_all_commits=true&count_private=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chandan9pandey&layout=compact&langs_count=6&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
+  <img height="137em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chandan9pandey&show_icons=true&include_all_commits=true&count_private=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>
+  <img height="137em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chandan9pandey&layout=compact&langs_count=6&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
 </a>
 </p>
+<hr/>
 
 ### 📫 &nbsp; How to reach me:
 
