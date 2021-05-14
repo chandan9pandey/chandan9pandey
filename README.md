@@ -32,14 +32,14 @@ I'm currently into Web Development 🕸️ and working on my Data Structures and
 
 - 🌱 I'm on track for learning more about AI, Machine Learning, and Cloud Architecture.
 
-- 💬 Ask me anything 🤓
+- 💬 Feel free to reach out to me for internships, volunteering, or just for some interesting discussion. 🤓
+
+- ✉️ You can shoot me an email from the link below! I'll try to respond as soon as I can.
 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 - ⚡ Fun fact: Diamonds rain on Saturn and Jupiter.
-<br/>
-<br/>
-<br/>
+
 <hr/>
 
 ### 🛠 &nbsp;Tech Stack
