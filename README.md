@@ -56,7 +56,7 @@ I'm currently into Web Development 🕸️ and working on my Data Structures and
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/chandan9pandey">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chandan9pandey&show_icons=true&include_all_commits=true&count_private=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chandan9pandey&layout=compact&langs_count=6&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
