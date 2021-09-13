@@ -26,7 +26,7 @@ I'm currently into Web Development 🕸️ and working on my Data Structures and
 
 </div>
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="GIF" width="512" height="384" src="https://github.com/chandan9pandey/chandan9pandey/blob/main/images/portfolio.gif" />
 
 - 🔭 I’m currently working on Web Design Projects.
 
