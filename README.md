@@ -18,7 +18,7 @@
 ---
 <div style="text-align: justify"> 
 
-I'm a third year student pursuing Bachelors's in Electronics & Communication 🎓 from Maharaja Surajmal Institute Of Technology 🏛.
+I'm a final year student pursuing Bachelors's in Electronics & Communication Engineering🎓 from Maharaja Surajmal Institute Of Technology 🏛.
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
 I love to explore new technologies and leverage them to solve real-life problems ✨.
 Apart from that I also love to 💻.
