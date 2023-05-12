@@ -28,15 +28,15 @@ I'm currently into Web Development 🕸️ and working on my Data Structures and
 
 <img align="right" alt="GIF" width="512" height="384" src="https://github.com/chandan9pandey/chandan9pandey/blob/main/images/portfolio.gif" />
 
-- 🔭 I’m currently working on Web Design Projects.
+- 🔭 I’m currently working on MERN Stack Projects.
 
-- 🌱 I'm on track for learning more about AI, Machine Learning, and Cloud Architecture.
+- 🌱 I'm on track for learning more about AI, System Design, and Cloud Architecture.
 
 - 💬 Feel free to reach out to me for internships, volunteering, or just for some interesting discussion. 🤓
 
 - ✉️ You can shoot me an email from the link below! I'll try to respond as soon as I can.
 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 - ⚡ Fun fact: Diamonds rain on Saturn and Jupiter.
 
