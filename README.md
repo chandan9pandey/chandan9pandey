@@ -36,7 +36,7 @@ I'm currently into Web Development 🕸️ and working on my Data Structures and
 
 - ✉️ You can shoot me an email from the link below! I'll try to respond as soon as I can.
 
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 
 - ⚡ Fun fact: Diamonds rain on Saturn and Jupiter.
 
