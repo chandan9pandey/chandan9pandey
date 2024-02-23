@@ -18,11 +18,8 @@
 ---
 <div style="text-align: justify"> 
 
-I have a UG Bachelors's in Electronics & Communication Engineering🎓 from Maharaja Surajmal Institute Of Technology 🏛.
-I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
-I love to explore new technologies and leverage them to solve real-life problems ✨.
-Apart from that I also love to 💻.
-I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm Chandan Pandey, a passionate software engineer with a strong foundation in Data Structures and Algorithms (DSA) and a knack for building web applications with the MERN stack (MongoDB, Express.js, React, Node.js). I have completed my engineering in Electronics & Communication🎓 from Maharaja Surajmal Institute Of Technology 🏛.
+As a deep learner, I'm always eager to tackle new challenges and expand my knowledge. I find immense joy in discussing and solving DSA problems, and I'm constantly looking for opportunities to collaborate and learn from others.
 
 </div>
 
